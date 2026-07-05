@@ -7,9 +7,9 @@ verify the premise before implementing the fix, and fabricate nothing.
 ![countdown](assets/countdown.svg)
 
 <!-- COUNTDOWN:START -->
-### ⏳ 1d 4h 36m until Fable is retired
+### ⏳ 1d 2h 20m until Fable is retired
 
-Deadline: **2026-07-07 00:00 Europe/Rome** · last refresh: 2026-07-05 19:23 CEST · auto-updated hourly by GitHub Actions (READMEs can't run JS, so this is as close to real time as it honestly gets)
+Deadline: **2026-07-07 00:00 Europe/Rome** · last refresh: 2026-07-05 21:39 CEST · auto-updated hourly by GitHub Actions (READMEs can't run JS, so this is as close to real time as it honestly gets)
 <!-- COUNTDOWN:END -->
 
 ## Why this exists
