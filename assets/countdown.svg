@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="60" role="img" aria-label="countdown">
   <rect width="420" height="60" rx="8" fill="#0d1117"/>
-  <text x="210" y="26" text-anchor="middle" font-family="Menlo, monospace" font-size="20" fill="#f0f6fc">1d 0h 43m left</text>
+  <text x="210" y="26" text-anchor="middle" font-family="Menlo, monospace" font-size="20" fill="#f0f6fc">0d 22h 45m left</text>
   <text x="210" y="48" text-anchor="middle" font-family="Menlo, monospace" font-size="11" fill="#8b949e">until 2026-07-07 00:00 Europe/Rome (hourly refresh)</text>
 </svg>
