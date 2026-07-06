@@ -7,9 +7,7 @@ verify the premise before implementing the fix, and fabricate nothing.
 ![countdown](assets/countdown.svg)
 
 <!-- COUNTDOWN:START -->
-### ⏳ 0d 1h 48m until Fable is retired
-
-Deadline: **2026-07-07 00:00 Europe/Rome** · last refresh: 2026-07-06 22:11 CEST · auto-updated hourly by GitHub Actions (READMEs can't run JS, so this is as close to real time as it honestly gets)
+**The deadline has passed. Fable is gone — the benchmark and the skill live on.**
 <!-- COUNTDOWN:END -->
 
 ## Why this exists
